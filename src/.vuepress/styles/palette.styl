@@ -4,19 +4,19 @@
  * ref：https://v1.vuepress.vuejs.org/zh/config/#palette-styl
  */
 
-$accentColor = #5D45BA
+$accentColor = #2E26D9
 $textColor = #2B2434
 $borderColor =#D5D3D6
 $codeBgColor = #17112F
 $arrowBgColor = #D5D3D6
-$badgeTipColor = darken(#2AE4FF, 25%)
-$badgeWarningColor = lighten(#5D45BA, 15%)
-$badgeErrorColor = #F8417D
+$badgeTipColor = darken(#5CFF26, 15%)
+$badgeWarningColor = lighten(#2E26D9, 15%)
+$badgeErrorColor = #B50AD0
 
 .blockquote 
     font-size: 1.2rem
-    color: #2F235D;;
-    border-left: 0.2rem solid #2F235D
+    color: #2E26D9;;
+    border-left: 0.2rem solid #2E26D9
     margin: 1rem 0;
     padding: 0.25rem 0 0.25rem 1rem;
 
@@ -31,21 +31,21 @@ $badgeErrorColor = #F8417D
     margin 1rem 0
   &.tip
     background-color lighten(#EAEAEB, 60%)
-    border-color #5D45BA
+    border-color #2E26D9
   &.warning
-    background-color (#eafdff)
-    border-color darken(#2AE4FF, 35%)
-    color darken(#2AE4FF, 70%)
+    background-color lighten(#2E26D9, 90%)
+    border-color darken(#2E26D9, 5%)
+    color darken(#2E26D9, 40%)
     .custom-block-title
-      color darken(#2AE4FF, 50%)
+      color darken(#2E26D9, 10%)
     a
       color $textColor
   &.danger
-    background-color lighten(#FFEDF3, 20%)
-    border-color darken(#F8417D, 0%)
-    color darken(#F8417D, 60%)
+    background-color lighten(#B50AD0, 90%)
+    border-color darken(#B50AD0, 0%)
+    color darken(#B50AD0, 40%)
     .custom-block-title
-      color darken(#F8417D, 10%)
+      color darken(#B50AD0, 10%)
     a
       color $textColor
 //   &.success
