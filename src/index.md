@@ -27,6 +27,6 @@ features:
   details: Все, что вы хотели знать об EMPAER. От быстрого старта до технологических подробностей 
 - title: Дорожная карта
   details: Этапы реализации и даты запуска.
-footer: Empaer capital © 2020-2021
+footer: Daria Zorina. FullStack Design 2008-2021
 ---
 
