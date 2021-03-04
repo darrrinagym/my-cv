@@ -1,0 +1,23 @@
+backend:
+  name: git-gateway
+  repo:
+  branch: master
+  # publish_mode: editorial_workflow
+  media_folder: 'src/.vuepress/public/images'
+  public_folder: '/images'
+  site_url: https://empaer-docs.netlify.com
+  display_url: https://empaer-docs.netlify.com
+  logo_url: https://empaer-docs.netlify.app/logo.png
+  collections:
+    - name: 'faq' # Used in routes, e.g., /admin/collections/blog
+      label: 'faq' # Used in the UI
+      folder: 'src/faq' # The path to the folder where the documents are stored
+      create: true # Allow users to create new documents in this collection
+      slug: '{{slug}}' # Filename template, e.g., YYYY-MM-DD-title.md
+      show_preview_links: true
+      fields: # The fields for each document, usually in front matter
+        - { label: 'Title', name: 'title', widget: 'string' }
+        - { label: 'Description', name: 'description', widget: 'string' }
+        - { label: 'Body', name: 'body', widget: 'markdown' }
+        - { label: 'Featured Image', name: 'image', widget: 'image' }
+        - { label: 'Categories', name: 'categories', widget: 'list' }

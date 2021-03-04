@@ -1,0 +1,88 @@
+/**
+ * Custom palette here.
+ *
+ * ref：https://v1.vuepress.vuejs.org/zh/config/#palette-styl
+ */
+
+$accentColor = #5D45BA
+$textColor = #2B2434
+$borderColor =#D5D3D6
+$codeBgColor = #17112F
+$arrowBgColor = #D5D3D6
+$badgeTipColor = darken(#2AE4FF, 25%)
+$badgeWarningColor = lighten(#5D45BA, 15%)
+$badgeErrorColor = #F8417D
+
+.blockquote 
+    font-size: 1.2rem
+    color: #2F235D;;
+    border-left: 0.2rem solid #2F235D
+    margin: 1rem 0;
+    padding: 0.25rem 0 0.25rem 1rem;
+
+.custom-block
+  .custom-block-title
+    font-weight 600
+    margin-bottom -0.4rem
+  &.tip, &.warning, &.danger
+    padding .1rem 1.5rem
+    border-left-width .2rem
+    border-left-style solid
+    margin 1rem 0
+  &.tip
+    background-color lighten(#EAEAEB, 60%)
+    border-color #5D45BA
+  &.warning
+    background-color (#eafdff)
+    border-color darken(#2AE4FF, 35%)
+    color darken(#2AE4FF, 70%)
+    .custom-block-title
+      color darken(#2AE4FF, 50%)
+    a
+      color $textColor
+  &.danger
+    background-color lighten(#FFEDF3, 20%)
+    border-color darken(#F8417D, 0%)
+    color darken(#F8417D, 60%)
+    .custom-block-title
+      color darken(#F8417D, 10%)
+    a
+      color $textColor
+//   &.success
+//     background-color lighten(#EFEDF9, 20%)
+//     border-color darken(#5D45BA, 0%)
+//     color darken(#5D45BA, 60%)
+//     .custom-block-title
+//       color darken(#5D45BA, 10%)
+//     a
+//       color $textColor
+  &.details
+    display block
+    position relative
+    border-radius 2px
+    margin 1.6em 0
+    padding 1.6em
+    background-color #eee
+    h4
+      margin-top 0
+    figure, p
+      &:last-child
+        margin-bottom 0
+        padding-bottom 0
+    summary
+      outline none
+      cursor pointer
+
+
+
+
+// layout
+$navbarHeight = 3.6rem
+$sidebarWidth = 20rem
+$contentWidth = 740px
+$homePageWidth = 960px
+
+// responsive breakpoints
+$MQNarrow = 959px
+$MQMobile = 719px
+$MQMobileNarrow = 419px

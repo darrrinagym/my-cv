@@ -1,0 +1,43 @@
+{
+  "name": "EMPAER",
+  "short_name": "EMPAER",
+  "icons": [
+    {
+      "src": "https://empaer-docs.netlify.app/icons/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://empaer-docs.netlify.app/icons/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/maskable_icon_x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icons/maskable_icon_x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "theme_color": "#5d45ba",
+  "background_color": "#5d45ba",
+  "start_url": "/?source=pwa",
+  "display": "fullscreen",
+  "scope": "/",
+  "description": "Документация EMPAER",
+  "screenshots": [
+    {
+      "src": "/images/screen.webp",
+      "type": "image/webp",
+      "sizes": "720x435"
+    }
+  ]
+}
