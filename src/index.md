@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /images/empaer-logo-3.webp
+heroImage: /images/my-animate-face.svg
 meta:
   - name: viewport 
     content: width=device-width,initial-scale=1
@@ -16,7 +16,7 @@ meta:
     content: business.business
   - property: og:image 
     content: https://empaer-docs.netlify.app/images/screen.webp
-name: EMPAER
+name: Daria Zorina
 tagline: Подробное описание проекта
 actionText: Документация →
 actionLink: /guide/
