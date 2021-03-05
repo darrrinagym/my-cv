@@ -8,7 +8,7 @@
 import acc-item from "src/.vuepress/components/acc-item.vue";
 export default {
   components: { acc-item },
-  name: "Accordion"
+  
 };
 
 </script>
