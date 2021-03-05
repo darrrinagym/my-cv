@@ -17,8 +17,8 @@ meta:
   - property: og:image 
     content: https://empaer-docs.netlify.app/images/screen.webp
 name: Daria Zorina
-tagline: Подробное описание проекта
-actionText: Документация →
+tagline: FullStack Product Designer & Developer
+actionText: Резюме →
 actionLink: /guide/
 features:
 - title: Как это работает

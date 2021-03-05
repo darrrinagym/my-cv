@@ -42,25 +42,26 @@ module.exports = {
   
     nav: [
       {
-        text: 'Как это работает',
-        link: '/guide/',
+        text: 'Skills',
+        link: '/skills/',
       },
       {
-        text: 'Вопросы и ответы',
-        link: '/faq/',
+        text: 'Expirience',
+        link: '/expirience/',
       },
       {
-        text: 'Дорожная карта',
-        link: '/roadmap/',
+        text: 'Projects',
+        link: '/projects/',
       },
       {
-        text: 'На сайт',
+        text: 'Contacts',
+        link: '/contacts/',
+      },
+      {
+        text: 'Резюме',
         link: 'https://empaer.capital/'
       },
-      {
-        text: 'Whitepaper',
-        link: 'https://empaer.ru/'
-      },
+      
     ],
     
     sidebar: {
@@ -107,7 +108,7 @@ module.exports = {
   locales: {
     '/': {
       lang: 'ru-RU',
-      title: 'EMPAER',
+      title: 'Daria Zorina',
       description: 'Документация',
       serviceWorker: {
         updatePopup: {
@@ -118,7 +119,7 @@ module.exports = {
     },
     '/en/': {
       lang: 'en-US',
-      title: 'EMPAER',
+      title: 'Daria Zorina',
       description: 'Project documentations',
       serviceWorker: {
         updatePopup: {

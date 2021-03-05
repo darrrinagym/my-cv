@@ -1,5 +1,5 @@
 ---
-title: Что такое EMPAER
+title: Skills
 lang: ru-RU
 meta:
   - name: description 
@@ -18,10 +18,10 @@ meta:
     content: business.business
   - property: og:image 
     content: https://empaer-docs.netlify.app/images/screen.webp
-category: faq
+category: skills
 tags: 
-  акции
-  дивиденды
+  design
+  development
 
 
 ---
