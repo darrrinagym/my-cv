@@ -28,7 +28,9 @@ tags:
 
 # {{ $frontmatter.title }}
 
+<Acc> item</Acc>
 <Acc />
+<acc-item/>
 
 [ЭМПАЕР](https://empaer.capital) - это глобальная блокчейн экосистема
 

@@ -1,34 +1,65 @@
 <template>
-<section>
-  <details open>
-    <summary><slot/></summary>
-    <div>
-      
-      <p>The Swiss psychologist and psychiatrist Carl Jung was one of the major forces responsible for bringing psychological (having to do with the mind and its processes) thought and its theories into the twentieth century.</p>
+  <li class="accordion__item">
+    <div 
+      class="accordion__trigger"
+      :class="{'accordion__trigger_active': visible}"
+      @click="open">
+
+      <!-- This slot will handle the title/header of the accordion and is the part you click on -->
+      <slot name="accordion-trigger"></slot>
     </div>
-  </details>
-  <details>
-    <summary>Sigmund Freud</summary>
-    <div>
-      
-      <p>The work of Sigmund Freud, the Austrian founder of psychoanalysis, marked the beginning of a modern, dynamic psychology by providing the first well-organized explanation of the inner mental forces determining human behavior.</p>
-    </div>
-  </details>
-  <details>
-    <summary>Alfred Adler</summary>
-    <div>
-      
-      <p>Austrian psychiatrist Alfred Adler was credited with developing several important theories on the motivation of human behavior. He founded the school of individual psychology, a comprehensive "science of living" that focuses on the uniqueness of the individual
-        and a person's relationships with society.</p>
-    </div>
-  </details>
-</section>
+
+    <transition 
+      name="accordion"
+      @enter="start"
+      @after-enter="end"
+      @before-leave="start"
+      @after-leave="end">
+
+      <div class="accordion__content"
+        v-show="visible">
+        <ul>
+          <!-- This slot will handle all the content that is passed to the accordion -->
+          <slot name="accordion-content"></slot>
+        </ul>
+      </div>
+    </transition>
+  </li>
 </template>
 
 <script>
-export default { 
-
-}
+export default {
+  props: {},
+  inject: ["Accordion"],
+  data() {
+    return {
+      index: null
+    };
+  },
+  computed: {
+    visible() {
+      return this.index == this.Accordion.active;
+    }
+  },
+  methods: {
+    open() {
+      if (this.visible) {
+        this.Accordion.active = null;
+      } else {
+        this.Accordion.active = this.index;
+      }
+    },
+    start(el) {
+      el.style.height = el.scrollHeight + "px";
+    },
+    end(el) {
+      el.style.height = "";
+    }
+  },
+  created() {
+    this.index = this.Accordion.count++;
+  }
+};
 </script>
 
 <style lang="stylus" scoped>
