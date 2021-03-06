@@ -18,15 +18,15 @@ meta:
     content: https://empaer-docs.netlify.app/images/screen.webp
 name: Daria Zorina
 tagline: FullStack Product Designer & Developer
-actionText: Резюме →
+actionText: Skills, Expirience & CV →
 actionLink: /guide/
 features:
-- title: Как это работает
-  details: Прозрачное и безопасное инвестирование. Мы соединили лучшее из мира криптовалют и классических инвестиций
-- title:  Вопросы и ответы
-  details: Все, что вы хотели знать об EMPAER. От быстрого старта до технологических подробностей 
-- title: Дорожная карта
-  details: Этапы реализации и даты запуска.
-footer: Daria Zorina. FullStack Design 2008-2021
+- title: Product Design
+  details: Creation of products needed by the market. Focus on solving business problems, reducing costs and promoting the brand.
+- title:  UX/UI Design
+  details: In this role, I focus on user experience and end-user usability
+- title: Development
+  details: Optimizing seamless workflows between design and development. Creation of design systems. Fullstack development
+footer: Daria Zorina. FullStack Design 2008 – present
 ---
 

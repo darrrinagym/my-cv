@@ -58,16 +58,16 @@ module.exports = {
         link: '/contacts/',
       },
       {
-        text: 'Резюме',
+        text: 'CV',
         link: 'https://empaer.capital/'
       },
       
     ],
     
     sidebar: {
-      '/guide/': [
+      '/skills/': [
         {
-          title: 'О проекте',
+          title: 'My skills',
           collapsable: false,
           children: [
             '',
@@ -75,9 +75,9 @@ module.exports = {
           ]
         }
       ],
-      '/faq/': [
+      '/expirience/': [
         {
-          title: 'Вопросы и ответы',
+          title: 'Expirience',
           collapsable: false,
           children: [
             '',
@@ -94,9 +94,9 @@ module.exports = {
           ]
         }
       ],
-      '/roadmap/': [
+      '/contacts/': [
         {
-          title: 'Дорожная карта',
+          title: 'Contacts',
           collapsable: false,
           children: [
             '',
@@ -107,24 +107,24 @@ module.exports = {
   },
   locales: {
     '/': {
-      lang: 'ru-RU',
+      lang: 'english',
       title: 'Daria Zorina',
-      description: 'Документация',
+      description: 'CV: Fullstack Designer & Developer',
       serviceWorker: {
         updatePopup: {
-          message: '🎉 Новый контент доступен ',
-          buttonText: 'Обновить'
+          message: '🎉 🎉 New Content Is Available ',
+          buttonText: 'Refresh'
         }
       }
     },
-    '/en/': {
-      lang: 'en-US',
-      title: 'Daria Zorina',
-      description: 'Project documentations',
+    '/ru/': {
+      lang: 'русский',
+      title: 'Дарья Зорина',
+      description: 'CV: Fullstack Designer & Developer',
       serviceWorker: {
         updatePopup: {
-          message: '🎉 New Content Is Available ',
-          buttonText: 'Refresh'
+          message: '🎉 Есть дополнения',
+          buttonText: 'Обновить'
         }
       }
     }
@@ -135,6 +135,7 @@ module.exports = {
    * Apply plugins，ref：https://v1.vuepress.vuejs.org/zh/plugin/
    */
   plugins: [
+    '@vuepress/register-components',
     '@vuepress/plugin-back-to-top',
     '@vuepress/plugin-medium-zoom',
     [
