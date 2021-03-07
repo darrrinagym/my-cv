@@ -219,7 +219,8 @@ It also allows for quick design updates and quick and consistent changes globall
   <div slot="acc-p">
   <p><strong>HTML</strong>, <strong>CSS: </strong>styled components, scss, sass, stylus, etc</p>
   <p><strong>JS</strong>: <br/><strong>React </strong>  | create-react-app, next.js, gatsby<br/> <strong>Vue 2, Vue 3</strong> (composition API 😍 my favorit ❤️❤️❤️) | Vue CLI, Gridsome, Nuxt, Vuepress</p>
-  <strong>storybook</strong>, <strong>bit.dev</strong> | for components<br/> <strong>Flutter</strong> (in progress – I am constantly learning something 🤓), <p> Yes, of course, I know how to use libraries of ready-made components such as Bootstrap, Bulma, Elements-UI, etc. Also I can create a component library from 0.</p></div>
+  <strong>storybook</strong>, <strong>bit.dev</strong> | for components<br/> <strong>Flutter</strong> (in progress – I am constantly learning something 🤓), <p> Yes, of course, I know how to use libraries of ready-made components such as Bootstrap, Bulma, Elements-UI, Ionic, etc. Also I can create a component library from 0.</p>
+  </div>
   </AccItem>
   <AccItem>Backend skills
   <div slot="acc-p">
@@ -247,7 +248,11 @@ PostgreeSQL – no comments</P>
 <p>Though I have included HTML, CSS and JS in the development section. </p>
 <p>But I believe that these skills are necessary for designers: for small tasks, for example, for landing pages, where complex business logic is not required, but the visual effect is important. </p>
 <p>The designer will make the layout exactly as intended. And it will do it faster than a frontend developer.</p>
-<p>Also, I like to act as <strong>fullstack</strong> on my own projects.</p></div>
+<p>Also, I like to act as <strong>fullstack</strong> on my own projects.</p>
+<blockquote>
+<p><em>Despite all these skills, I am primarily a designer. Yes, I can develop a fullstack by alternating roles. However, on large projects, I prefer the role of a designer. And I like big projects.</em></p>
+<p><em>Besides, I like code too much, and I can write code for days, even skipping workouts. It is harmful to health 🙈 and I care about it.</em></p>
+</blockquote></div>
   </AccItem>
 </Accordion>
 
@@ -260,7 +265,7 @@ PostgreeSQL – no comments</P>
   </AccItem>
   <AccItem>Tools
   <div slot="acc-p">
-  <p>Tilda, Webflow, Anima – for rapid prototyping and and sites for marketers or small businesses where complex functionality is not needed. Although, sometimes transferring a site to Gatsby from Figma is even faster for me.</p>
+  <p>Tilda, Webflow, Anima, Publii – for rapid prototyping and and sites for marketers or small businesses where complex functionality is not needed. Although, sometimes transferring a site to Gatsby from Figma is even faster for me.</p>
   <p>Bubble, Thunkable, Boundless – for apps</p>
   <p>Zapier, Workato, Integromat, Automate.io, etc – for automatisations</p>
   <p>Retool, Airtable, etc for internal tools</p>

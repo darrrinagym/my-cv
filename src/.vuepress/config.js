@@ -71,7 +71,7 @@ module.exports = {
           collapsable: false,
           children: [
             '',
-            'problem',
+            
           ]
         }
       ],
@@ -82,15 +82,7 @@ module.exports = {
           children: [
             '',
             'pochemu-vygodno-investirovat-v-empaer',
-            'akcii-vs-bankovsky-deposit',
-            'hranenie-i-vyvod-akcii',
-            'luchshee-vremya-dlya-investicii',
-            'zachita-investicii',
-            'mejdunarodnye-investicii',
-            'kak-investirovat-nalichnye-v-kryptu',
-            'vip-investicii',
-            'kak-poluchit-investicii',
-            'perspectivy',
+           
           ]
         }
       ],
