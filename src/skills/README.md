@@ -291,6 +291,44 @@ PostgreeSQL – no comments</P>
   
 </Accordion>
 
-I definitely did not list all my skills, but I think that's enough 😉
+
+
 
 ## Software
+
+**Now I prefer to use:**
+
+* `Figma` & `VS code` 
+
+* `Overflow` - for user flows
+
+* `Framer` for interactive prototiping, Element UI, Ionic or other framworks for rapid prototiping
+
+* `Visly` — for creating custom react component
+* `Style dictionary` or `Figmagic` for seamless between design and development
+
+* `Miro`— white boards
+
+* `KeyShape`- svg or lottie animations
+
+* `Airtable`, `Slack` & `Retool` - for inner work process
+
+* `Vue 3`, `Vue CLI`, `Supabase`, `Netlify` – if i do something like fullstack
+
+**Also I can use:**
+
+* `Sketch`, `Flinto`, `Principle` , `Adobe XD`, `inVision`, `Abstract`
+
+* `Adobe (After Effects, Illustrator, Photoshop, In Design)` – for graphic and animation,
+
+*`Balsamiq`, `Axure RP` and all other wireframing and prototiping sowtware,
+
+* `Bootstrap`, etc for rapid prototiping
+* `Tilda`, `Webflow`, `Publii`, `Bubble` and some more nocode tools
+* ... and more design- and dev- tools
+
+
+::: warning I think but...
+ &#8594; I definitely did not list all my skills, but I think that's enough 😉
+  
+:::
