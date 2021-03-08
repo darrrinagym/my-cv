@@ -164,20 +164,18 @@ Not so long ago I discovered <strong>Figma-low-code</strong>. The code it genera
   <AccItem>Illustrations & UI graphics
         <div slot="acc-p"><p>To be honest, I don&#39;t like illustrations. I prefer to transfer this part to illustrators. And she herself is engaged in logic.</p>
 <p>At the beginning of my design career, I had to do a lot of graphics. At that time, &quot;beautiful&quot; sites were in vogue, plus I worked a lot on game development. This meant that even buttons were often drawn.</p>
-<p>But yes, I can draw. In quarantine, I even started to entertain myself on my <a href="https://instagram.com/darrrinagym">Instagram(now stopped)</a> as art therapy. Use only mobile gadgets for animation. It&#39;s just fun. But people started clamoring for courses. Followers even approached me for graphics.</p>
+<p>But yes, I can draw. In quarantine, I even started to entertain myself on my <a href="https://instagram.com/darrrinagym">Instagram (now stopped)</a> as art therapy. Use only mobile gadgets for animation. It&#39;s just fun. But people started clamoring for courses. Followers even approached me for graphics.</p>
 <p>But it was more of an entertainment. I prefer building logic rather than drawing graphics. Although, if necessary, I can.</p>
 <p>And sometimes it&#39;s even fun for me. But in small doses.</p>
+<blockquote><p>Once upon a time I was very fond of 3d as a hobby. It was Maya, Cinema4D, Zbrush, Blender, etc</p>
+<p>But the skills remain, so sometimes I can even model and animate something. For example using <strong>three.js</strong></p></blockquote>
 </div>
   </AccItem>
   <AccItem>Mention
         <div slot="acc-p"><p>When there are other designers on the team, I can be a mentor. Often involuntarily. When I was heading the game development department at an advertising agency, web development sent me designers every month for internships.</p>
 <p>And on the cryptoteam, the designers said that every approach to my desk ends with insight 😎</p></div>
   </AccItem>
-  </AccItem>
-  <AccItem>3d graphics
-        <div slot="acc-p"><p>Once upon a time I was very fond of 3d as a hobby. It was **Maya**, **Cinema4D**, **Zbrush**, **Blender**, etc</p>
-<p>But the skills remain, so sometimes I can even model and animate something. For example using **three.js**</p></div>
-  </AccItem>
+  
 </Accordion>
 
 ## Design Sistems
