@@ -81,7 +81,6 @@ module.exports = {
           collapsable: false,
           children: [
             '',
-            'pochemu-vygodno-investirovat-v-empaer',
            
           ]
         }

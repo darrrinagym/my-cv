@@ -20,7 +20,7 @@ export default {
     margin 1rem auto
     padding 0rem 0 0rem 1rem
     width 96%  
-    border-left 1px solid
+    border-left 2px solid
     border-color #d5d3d6
     
 </style>
