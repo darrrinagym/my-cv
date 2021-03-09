@@ -2,36 +2,32 @@
 title: Hard skills
 lang: ru-RU
 meta:
-  - name: description 
+  - name: description
     content: о проекте
-  - name: viewport 
+  - name: viewport
     content: width=device-width,initial-scale=1
-  - property: og:title 
+  - property: og:title
     content: Инвестируйте в проверенные проекты. Хедж-фонд. Краудфайндинг. Криптоакции | EMPAER
-  - property: og:site_name 
+  - property: og:site_name
     content: Глобальная блокчейн-экосистема EMPAER
-  - property: og:url 
+  - property: og:url
     content: https://docs.empaer.capital
-  - property: og:description 
+  - property: og:description
     content: EMPAER это хедж-фонд, построенный на блокчейне, и сочетающий преимущества инвестирования в традиционные акции с простотой крипто-платформы.
-  - property: og:type 
+  - property: og:type
     content: business.business
-  - property: og:image 
+  - property: og:image
     content: https://empaer-docs.netlify.app/images/screen.webp
 category: skills
-tags: 
-  design
+tags: design
   development
-
-
----
-
-# {{ $frontmatter.title }}
+---# {{ $frontmatter.title }}
 
 ## Research
+
 <Accordion>
   <AccItem>Data analysis
-  <div slot="acc-p">For example,<strong>Google Analitics</strong>, <strong>AppsAnnie</strong>, <strong>Woopra</strong>, <strong>Session recording & Heatmapping tools</strong> and much more. Without data, I can't do a darn thing</div>
+  <div slot="acc-p">For example, <strong>Google Analitics</strong>, <strong>AppsAnnie</strong>, <strong>Woopra</strong>, <strong>Session recording & Heatmapping tools</strong> and much more. Without data, I can't do a darn thing</div>
   </AccItem>
   <AccItem>Market research
   <div slot="acc-p">Startups often don't think about marketers at all. I like startups😎 I often had to combine. Moreover, the line between marketing and design research is so thin.</div>
@@ -74,6 +70,7 @@ tags:
 </Accordion>
 
 ## Prototiping
+
 <Accordion>
   <AccItem>Wireframing
   <div slot="acc-p">
@@ -86,7 +83,8 @@ tags:
   </div>
   </AccItem>
 
-  <AccItem>Rapid prototiping
+<AccItem>Rapid prototiping
+
   <div slot="acc-p">
   <p>
   Now: <strong>Figma</strong> or <strong>Keynote</strong>
@@ -133,7 +131,8 @@ Not so long ago I discovered <strong>Figma-low-code</strong>. The code it genera
 <p>In addition to functional layouts, at the same stage I am looking for how the product should look, that is, I accompany the wireframe whith mock up</p> </div>
         </AccItem>
 
-  <AccItem>Style guides & UI kits
+<AccItem>Style guides & UI kits
+
 <div slot="acc-p">
   <p>In terms of visual effects, any project for me
    any project, even the smallest one, starts with design tokens.</p>
@@ -179,6 +178,7 @@ Not so long ago I discovered <strong>Figma-low-code</strong>. The code it genera
 </Accordion>
 
 ## Design Sistems
+
 <Accordion>
   <AccItem>Tokens
   <div slot="acc-p"><p>I am a proponent of the component-based approach, starting with tokens. Although the concept of tokens is quite young, and I used to call them mixins before.</p>
@@ -214,7 +214,6 @@ It also allows for quick design updates and quick and consistent changes globall
 </Accordion>
 
 ## Development
-
 
 <Accordion>
  
@@ -259,8 +258,8 @@ PostgreeSQL – no comments</P>
   </AccItem>
 </Accordion>
 
-
 ## ... and nocode
+
 <Accordion>
   <AccItem>When I use nocode
   <div slot="acc-p"><p>When to write code, and when to use NOCODE tools - it depends on the task, deadline, budget.</p>
@@ -278,8 +277,8 @@ PostgreeSQL – no comments</P>
   
 </Accordion>
 
-
 ## Teamwork
+
 <Accordion>
   <AccItem>Agile
   <div slot="acc-p"><p>Yes, of course I can work in Agile. </p>
@@ -294,44 +293,40 @@ PostgreeSQL – no comments</P>
   
 </Accordion>
 
-
-
-
 ## Software
 
 **Now I prefer to use:**
 
-* `Figma` & `VS code` 
+- `Figma` & `VS code`
 
-* `Overflow` - for user flows
+- `Overflow` - for user flows
 
-* `Framer` for interactive prototiping, Element UI, Ionic or other framworks for rapid prototiping
+- `Framer` for interactive prototiping, Element UI, Ionic or other framworks for rapid prototiping
 
-* `Visly` — for creating custom react component
-* `Style dictionary` or `Figmagic` for seamless between design and development
+- `Visly` — for creating custom react component
+- `Style dictionary` or `Figmagic` for seamless between design and development
 
-* `Miro`— white boards
+- `Miro`— white boards
 
-* `KeyShape`- svg or lottie animations
+- `KeyShape`- svg or lottie animations
 
-* `Airtable`, `Slack` & `Retool` - for inner work process
+- `Airtable`, `Slack` & `Retool` - for inner work process
 
-* `Vue 3`, `Vue CLI`, `Supabase`, `Netlify` – if i do something like fullstack
+- `Vue 3`, `Vue CLI`, `Supabase`, `Netlify` – if i do something like fullstack
 
 **Also I can use:**
 
-* `Sketch`, `Flinto`, `Principle` , `Adobe XD`, `inVision`, `Abstract`
+- `Sketch`, `Flinto`, `Principle` , `Adobe XD`, `inVision`, `Abstract`
 
-* `Adobe (After Effects, Illustrator, Photoshop, In Design)` – for graphic and animation,
+- `Adobe (After Effects, Illustrator, Photoshop, In Design)` – for graphic and animation,
 
-*`Balsamiq`, `Axure RP` and all other wireframing and prototiping sowtware,
+\*`Balsamiq`, `Axure RP` and all other wireframing and prototiping sowtware,
 
-* `Bootstrap`, etc for rapid prototiping
-* `Tilda`, `Webflow`, `Publii`, `Bubble` and some more nocode tools
-* ... and more design- and dev- tools
-
+- `Bootstrap`, etc for rapid prototiping
+- `Tilda`, `Webflow`, `Publii`, `Bubble` and some more nocode tools
+- ... and more design- and dev- tools
 
 ::: warning I think but...
- &#8594; I definitely did not list all my skills, but I think that's enough 😉
-  
+&#8594; I definitely did not list all my skills, but I think that's enough 😉
+
 :::
