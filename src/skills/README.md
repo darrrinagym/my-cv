@@ -1,27 +1,29 @@
 ---
+
 title: Hard skills
 lang: ru-RU
 meta:
-  - name: description
-    content: о проекте
-  - name: viewport
-    content: width=device-width,initial-scale=1
-  - property: og:title
-    content: Инвестируйте в проверенные проекты. Хедж-фонд. Краудфайндинг. Криптоакции | EMPAER
-  - property: og:site_name
-    content: Глобальная блокчейн-экосистема EMPAER
-  - property: og:url
-    content: https://docs.empaer.capital
-  - property: og:description
-    content: EMPAER это хедж-фонд, построенный на блокчейне, и сочетающий преимущества инвестирования в традиционные акции с простотой крипто-платформы.
-  - property: og:type
-    content: business.business
-  - property: og:image
-    content: https://empaer-docs.netlify.app/images/screen.webp
-category: skills
-tags: design
+
+- name: description
+  content: о проекте
+- name: viewport
+  content: width=device-width,initial-scale=1
+- property: og:title
+  content: Инвестируйте в проверенные проекты. Хедж-фонд. Краудфайндинг. Криптоакции | EMPAER
+- property: og:site_name
+  content: Глобальная блокчейн-экосистема EMPAER
+- property: og:url
+  content: https://docs.empaer.capital
+- property: og:description
+  content: EMPAER это хедж-фонд, построенный на блокчейне, и сочетающий преимущества инвестирования в традиционные акции с простотой крипто-платформы.
+- property: og:type
+  content: business.business
+- property: og:image
+  content: https://empaer-docs.netlify.app/images/screen.webp
+  category: skills
+  tags: design
   development
----# {{ $frontmatter.title }}
+  ---# {{ $frontmatter.title }}
 
 ## Research
 
@@ -301,7 +303,7 @@ PostgreeSQL – no comments</P>
 
 - `Overflow` - for user flows
 
-- `Framer` for interactive prototiping, Element UI, Ionic or other framworks for rapid prototiping
+- `Framer` for interactive prototiping, `Element UI`, `Ionic`, `Primevue`, `Bulma` or other framworks for rapid prototiping
 
 - `Visly` — for creating custom react component
 - `Style dictionary` or `Figmagic` for seamless between design and development
