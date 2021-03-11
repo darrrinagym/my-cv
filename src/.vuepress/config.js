@@ -97,7 +97,7 @@ module.exports = {
     }
   },
   locales: {
-    '/': {
+    '/en/': {
       lang: 'english',
       title: 'Daria Zorina',
       description: 'CV: Fullstack Designer & Developer',
@@ -108,7 +108,7 @@ module.exports = {
         }
       }
     },
-    '/ru/': {
+    '/': {
       lang: 'русский',
       title: 'Дарья Зорина',
       description: 'CV: Fullstack Designer & Developer',

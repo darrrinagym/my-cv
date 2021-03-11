@@ -1,6 +1,6 @@
 ---
-title: Опыт
-lang: ru-RU
+title: Expirience
+lang: en-US
 meta:
   - name: description
     content: Design Sistems. Design thinking for business processes

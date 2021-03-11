@@ -1,31 +1,32 @@
 ---
 home: true
+lang: ru-RU
 heroImage: /images/my-animate-face.svg
 meta:
   - name: viewport
     content: width=device-width,initial-scale=1
   - property: og:title
-    content: Daria Zorina – Product & UX/UI Design| CV
+    content: Дарья Зорина – Product & UX/UI Design| CV
   - property: og:site_name
-    content: Daria Zorina – Product & UX/UI Design| CV
+    content: Дарья Зорина – Product & UX/UI Design| CV
   - property: og:url
     content: https://dariazorina.netlify.app
   - property: og:description
-    content: Design Sistems. Design thinking for business processes & best UX expirience
+    content: Дизайн системы. Дизайн мышление для оптимизации бизнес-процессов и улучшения пользовательского опыта
   - property: og:type
     content: business
   - property: og:image
     content: https://dariazorina.netlify.app/images/cv-daria-img.webp
 name: Daria Zorina
 tagline: FullStack Product Designer & Developer
-actionText: Skills, Expirience & CV →
+actionText: Перейти к резюме →
 actionLink: /skills/
 features:
   - title: Product Design
-    details: Creation of products needed by the market. Focused on solving of business problems, reducing costs and promoting the brand
+    details: Фокус на создании продуктов, востребованных рынком, решении бизнес-задач, снижении стоимости разработки и правильном позиционировании бренда
   - title: UX/UI Design
-    details: In this role, I’m focused on user experience and end-user usability
+    details: В этой роли фокусируюсь на удобстве и удовольствии использования продукта пользователями.
   - title: Development
-    details: Optimizing of seamless workflows between design and development. Creation of design systems. Fullstack development
+    details: Дизайн, интегрированный в разработку. Создание дизайн систем. Fullstack development
 footer: Daria Zorina. FullStack Design 2008 – present
 ---
