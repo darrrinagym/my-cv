@@ -30,35 +30,35 @@ tags: design
 ## Research ru
 
 <Accordion>
-  <AccItem>Data analysis
-  <div slot="acc-p">For example, <strong>Google Analitics</strong>, <strong>AppsAnnie</strong>, <strong>Woopra</strong>, <strong>Session recording & Heatmapping tools</strong> and much more. Without data, I can't do a darn thing</div>
+  <AccItem>Аналитика
+  <div slot="acc-p">Без данных остается только строить гипотезы. Использую такие инструменты аналитики, как <strong>Google Analitics</strong>, <strong>AppsAnnie</strong>, <strong>Woopra</strong>, а также инструменты записи пользовательских сессий и тепловые карты. </div>
   </AccItem>
-  <AccItem>Market research
-  <div slot="acc-p">Startups often don't think about marketers at all. I like startups😎 I often had to combine. Moreover, the line between marketing and design research is so thin.</div>
+  <AccItem>Маркетинговые исследования
+  <div slot="acc-p"><p>Многие стартапы на старте часто забывают о маркетинге. Но я люблю стартапы: тут больше возможностей влиять на продукт, хотя, и делать приходится больше, а задачи не всегда типичны.</p> Так что неоднократно совмещала дизайн-исследования с маркетинговыми. Тем более, грань между ними довольно тонка</div>
   </AccItem>
-  <AccItem>Consumer research
-  <div slot="acc-p"><strong>CJM</strong> and <strong>User flows</strong>: two parts of a whole. Users are more likely to make an in-product purchase. Therefore, it is often difficult to separate CX and UX. </div>
+  <AccItem>Потребительские исследования
+  <div slot="acc-p"><strong>CJM</strong> и <strong>User flows</strong>. <p>«Сначала дай попробовать, потом продай»: покупки внутри приложений – обычное дело и конвертировать уже имеющегося пользователя в покупателя всегда проще.</p><p> Так что обеспечиваем классный <strong>UX</strong>, и сразу же проектируем <strong>CX</strong></p></div>
   </AccItem>
-  <AccItem>Hypothesis Testing
+  <AccItem>Тестирование гипотез
   <div slot="acc-p">
   <p>
-  Using both real user tests and AI-powered tools. Although, given my personal experience, I can often predict the testing results 🧐.
+  Могу использовать как реальные пользовательские тесты, так и AI-инструменты, имитирующие пользовательский опыт. В силу опыта обычно могу заранее предсказать результаты тестирования 🧐. 
   </p>
-  <p>But if I have been participating in the project for a long time and know it well, then there is a chance to experience the consequences of the "curse of knowledge". Hence, tests are always desirable.
+  <p>Правда, когда слишком много знаешь о продукте, то сталкиваешься с «проклятием знания». Так что тесты все равно нужны.
   </p>
   </div>
   </AccItem>
-  <AccItem>Task analysis & personas modeling
-  <div slot="acc-p">I really like to visualize processes using diagrams. The result of the analysis of how the user achieves his goal is also a diagram, on the basis of which usability bottlenecks can be identified. <br/>As for the personas, I am a supporter of compiling the psychotypes of users, for example, using <strong>OCEAN</strong>, instead of "drawing" classic personas.</div>
+  <AccItem>Анализ задач и проектирование персон
+  <div slot="acc-p">Что касается персон, то давно предпочитаю выделить основные психотипы пользователей, Например,по <p><a href="https://instagraf.ru/ocean">OCEAN</a></p>, вместо того, чтобы рисовать персон «по классике». Так проще вызвать нужные эмоции и понять как зацепить пользователя. </div>
   </AccItem>
-  <AccItem>Design research
+  <AccItem>Дизайн-исследования
   <div slot="acc-p">I think comments are superfluous here.<br/>But, usually it's a huge board somewhere in the padlet or miro, where all the strengths and weaknesses of competitors' designs are discussed in detail. And in order not to be similar to them, there are also options that we can peep in the projects of other industries. This applies to both UI-design and usability.</div>
   </AccItem>
-  <AccItem>A/B Testing & Experiment
+  <AccItem>A/B тесты и эксперименты
   <div slot="acc-p">I like to use different tools. But often it is <strong>Feng-GUI</strong>, <strong>Usabilityhub</strong> and those already mentioned above </div>
   </AccItem>
   </AccItem>
-  <AccItem>Neurobiology
+  <AccItem>Нейробиология, нейродизайн, нейромаркетинг
   <div slot="acc-p">
   <p>Any of our emotions is a reaction of neurotransmitters. I studied and study neuroscience even before I came to IT.
   </p>
@@ -68,7 +68,7 @@ tags: design
   </p>
   </div>
   </AccItem>
-  <AccItem>Cognitive walkthrough, design thinking, etc
+  <AccItem>Когнитивный разбор (Cognitive walkthrough), дизайн-мышление и многое другое
   <div slot="acc-p">I worked with usability back in the late 2000s, when few people thought about usability in principle - so I listed only the popular minimum, but this is far from all that I can.</div>
   </AccItem>
 </Accordion>
