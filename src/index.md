@@ -11,7 +11,7 @@ meta:
   - property: og:url
     content: https://dariazorina.netlify.app
   - property: og:description
-    content: Design Sistems. Design thinking for business processes.
+    content: Design Sistems. Design thinking for business processes
   - property: og:type
     content: business
   - property: og:image

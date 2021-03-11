@@ -1,27 +1,27 @@
 ---
-
 title: Hard skills
 lang: en-US
 meta:
-
-- name: description
-  content: о проекте
-- name: viewport
-  content: width=device-width,initial-scale=1
-- property: og:title
-  content: Daria Zorina – Product & UX/UI Design| CV
-- property: og:site_name
-  content: Daria Zorina – Product & UX/UI Design| CV
-- property: og:url
-  content: https://dariazorina.netlify.app
-- property: og:description
-  content: Design Sistems. Design thinking for business processes.
-- property: og:type
-  content: business
-- property: og:image
-  content: https://dariazorina.netlify.app/images/cv-daria-img.webp
-  category: skills
-  tags: design
+  - name: description
+    content: Design Sistems. Design thinking for business processes
+  - name: viewport
+    content: width=device-width,initial-scale=1
+  - property: og:title
+    content: Daria Zorina – Product & UX/UI Design| CV
+  - property: og:site_name
+    content: Daria Zorina – Product & UX/UI Design| CV
+  - property: og:url
+    content: https://docs.empaer.capital
+  - property: og:description
+    content: Design Sistems. Design thinking for business processes
+  - property: og:type
+    content: business.business
+  - property: og:image
+    content: https://dariazorina.netlify.app/images/cv-daria-img.webp
+category: skills
+tags: design
+  cv
+  skills
   development
 ---
 
