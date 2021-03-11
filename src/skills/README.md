@@ -1,7 +1,7 @@
 ---
 
 title: Hard skills
-lang: ru-RU
+lang: en-US
 meta:
 
 - name: description
@@ -9,17 +9,17 @@ meta:
 - name: viewport
   content: width=device-width,initial-scale=1
 - property: og:title
-  content: Инвестируйте в проверенные проекты. Хедж-фонд. Краудфайндинг. Криптоакции | EMPAER
+  content: Daria Zorina – Product & UX/UI Design| CV
 - property: og:site_name
-  content: Глобальная блокчейн-экосистема EMPAER
+  content: Daria Zorina – Product & UX/UI Design| CV
 - property: og:url
-  content: https://docs.empaer.capital
+  content: https://dariazorina.netlify.app
 - property: og:description
-  content: EMPAER это хедж-фонд, построенный на блокчейне, и сочетающий преимущества инвестирования в традиционные акции с простотой крипто-платформы.
+  content: Design Sistems. Design thinking for business processes.
 - property: og:type
-  content: business.business
+  content: business
 - property: og:image
-  content: https://empaer-docs.netlify.app/images/screen.webp
+  content: https://dariazorina.netlify.app/images/cv-daria-img.webp
   category: skills
   tags: design
   development
@@ -97,12 +97,11 @@ meta:
   </AccItem>
   <AccItem>Interactive Prototiping
   <div slot="acc-p">
-  <p>
-  If there is no prototyping feature in <strong>Figma</strong>: I use
+  <p> If <strong>Figma</strong> prototyping functionality is not enough: I use
 <strong>Framer</strong> or component libraries and frameworks like <strong>Bootstrap</strong>, <strong>Bulma</strong>, <strong>Ant-design</strong>, <strong>Element UI</strong>, etc.
 </p>
 <p>
-Not so long ago I discovered <strong>Figma-low-code</strong>. The code it generates is nowhere to be found. sucks. But for rapid prototyping with really working forms, it works.
+Not so long ago I discovered Figma-low-code. The generated code is ugly 🙈. But it quickly brings the screens designed in Figma to life
 </p>
 <p>I list the preferred tools, although usually, as soon as a tool appears, I try to test it. I am still waiting for the perfect design tool. Figma is the best solution to date, but far from ideal.</p>
 <p>Therefore, there is even experience with <strong>Adobe XD</strong>, <strong>react studio</strong>, <strong>bubble</strong>, <strong>supernova</strong> and other well-known or little-known tools. For example, <strong>Visly</strong> - which is potentially closer to real-world development, but hangs on my Mac with a large library of components.
@@ -320,7 +319,7 @@ PostgreeSQL – no comments</P>
 
 - `Sketch`, `Flinto`, `Principle` , `Adobe XD`, `inVision`, `Abstract`
 
-- `Adobe (After Effects, Illustrator, Photoshop, In Design)` – for graphic and animation,
+- `Adobe (After Effects, Illustrator, Photoshop, In Design)`
 
 \*`Balsamiq`, `Axure RP` and all other wireframing and prototiping sowtware,
 
@@ -328,7 +327,7 @@ PostgreeSQL – no comments</P>
 - `Tilda`, `Webflow`, `Publii`, `Bubble` and some more nocode tools
 - ... and more design- and dev- tools
 
-::: warning I think but...
+::: warning But I think......
 &#8594; I definitely did not list all my skills, but I think that's enough 😉
 
 :::

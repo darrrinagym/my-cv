@@ -5,27 +5,27 @@ meta:
   - name: viewport
     content: width=device-width,initial-scale=1
   - property: og:title
-    content: Инвестируйте в проверенные проекты. Хедж-фонд. Краудфайндинг. Криптоакции | EMPAER
+    content: Daria Zorina – Product & UX/UI Design| CV
   - property: og:site_name
-    content: Глобальная блокчейн-экосистема EMPAER
+    content: Daria Zorina – Product & UX/UI Design| CV
   - property: og:url
-    content: https://docs.empaer.capital
+    content: https://dariazorina.netlify.app
   - property: og:description
-    content: EMPAER это хедж-фонд, построенный на блокчейне, и сочетающий преимущества инвестирования в традиционные акции с простотой крипто-платформы.
+    content: Design Sistems. Design thinking for business processes.
   - property: og:type
-    content: business.business
+    content: business
   - property: og:image
-    content: https://empaer-docs.netlify.app/images/screen.webp
+    content: https://dariazorina.netlify.app/images/cv-daria-img.webp
 name: Daria Zorina
 tagline: FullStack Product Designer & Developer
 actionText: Skills, Expirience & CV →
 actionLink: /skills/
 features:
   - title: Product Design
-    details: Creation of products needed by the market. Focus on solving business problems, reducing costs and promoting the brand.
+    details: Creation of products needed by the market. Focused on solving of business problems, reducing costs and promoting the brand
   - title: UX/UI Design
-    details: In this role, I focus on user experience and end-user usability
+    details: In this role, I’m focused on user experience and end-user usability
   - title: Development
-    details: Optimizing seamless workflows between design and development. Creation of design systems. Fullstack development
+    details: OOptimizing of seamless workflows between design and development. Creation of design systems. Fullstack development
 footer: Daria Zorina. FullStack Design 2008 – present
 ---
