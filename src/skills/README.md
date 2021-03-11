@@ -23,7 +23,9 @@ meta:
   category: skills
   tags: design
   development
-  ---# {{ $frontmatter.title }}
+---
+
+# {{ $frontmatter.title }}
 
 ## Research
 
