@@ -11,7 +11,7 @@ meta:
   - property: og:url
     content: https://dariazorina.netlify.app
   - property: og:description
-    content: Design Sistems. Design thinking for business processes
+    content: Design Sistems. Design thinking for business processes & best UX expirience
   - property: og:type
     content: business
   - property: og:image
@@ -26,6 +26,6 @@ features:
   - title: UX/UI Design
     details: In this role, I’m focused on user experience and end-user usability
   - title: Development
-    details: OOptimizing of seamless workflows between design and development. Creation of design systems. Fullstack development
+    details: Optimizing of seamless workflows between design and development. Creation of design systems. Fullstack development
 footer: Daria Zorina. FullStack Design 2008 – present
 ---
