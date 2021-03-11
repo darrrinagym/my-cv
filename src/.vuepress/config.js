@@ -59,7 +59,7 @@ module.exports = {
       },
       {
         text: 'CV',
-        link: 'https://empaer.capital/'
+        link: 'https://dariazorina.netlify.app/ru/'
       },
       
     ],

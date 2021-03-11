@@ -11,7 +11,7 @@ meta:
   - property: og:site_name
     content: Daria Zorina – Product & UX/UI Design| CV
   - property: og:url
-    content: https://docs.empaer.capital
+    content: https://dariazorina.netlify.app
   - property: og:description
     content: Design Sistems. Design thinking for business processes
   - property: og:type
@@ -323,7 +323,7 @@ PostgreeSQL – no comments</P>
 
 - `Adobe (After Effects, Illustrator, Photoshop, In Design)`
 
-\*`Balsamiq`, `Axure RP` and all other wireframing and prototiping sowtware,
+- `Balsamiq`, `Axure RP` and all other wireframing and prototiping sowtware,
 
 - `Bootstrap`, etc for rapid prototiping
 - `Tilda`, `Webflow`, `Publii`, `Bubble` and some more nocode tools
