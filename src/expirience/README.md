@@ -3,7 +3,7 @@ title: Опыт
 lang: ru-RU
 meta:
   - name: description
-    content: Design Sistems. Design thinking for business processes
+    content: Дизайн системы и дизайн-мышление для решения бизнес-задач
   - name: viewport
     content: width=device-width,initial-scale=1
   - property: og:title
@@ -11,9 +11,9 @@ meta:
   - property: og:site_name
     content: Daria Zorina – Product & UX/UI Design| CV
   - property: og:url
-    content: https://docs.empaer.capital
+    content: https://dariazorina.netlify.app
   - property: og:description
-    content: Design Sistems. Design thinking for business processes
+    content: Дизайн системы и дизайн-мышление для решения бизнес-задач
   - property: og:type
     content: business.business
   - property: og:image
@@ -29,141 +29,153 @@ tags: design
 
 ## Co-founder
 
-<Card><p><a href="https://tochkasklada.ru/"><strong>Family startup</strong></a></p><p>Warehouses for individuals near the house<p> summer 2020 – present time</p></Card>
+<Card><p><a href="https://tochkasklada.ru/"><strong>Точка склада</strong></a></p><p>Сервис хранения вещей рядом с домом<p> С июня 2020 </p></Card>
 
-> I am responsible for the technical part, branding, design, usability, and partly for marketing materials.
+> Семейный стартап. Я отвечаю за продуктовую стратегию и разработку
 
-- Creating a landing page on Tilda to test the hypothesis.
-- I designed the user flow from booking to entering the store without having to visit the office, etc.
-- Transforming a landing page into an MVP website
-- Creating a landing page for investors
-- Creation of automation of business processes using Nocode tools (Airtable, Slack, Sendgrid, Telegram)
-- Sotial Media Marketing
-- Building a PWA application (in progress)
+- Аналитика, продуктовая стратегия и позиционирование
+- Сайт, посадочные страницы для клиентов и инвесторов
+- Автоматизация и проектирование пользовательского пути от бронирования до заезда на склад без необходимости посещения офиса.
+- СРМ и автоматизация бизнес-процессов
+- СММ
+- Клиентское приложение
 
-[More about project &#8594; ](#)
+<p><img height=400px src="/images/tochka-sklada-cv.webp"></p>
 
-::: warning Nearing completion
-&#8594; I no longer need to devote a lot of time to this project.
+[Подробнее о проекте &#8594; ](#)
 
-&#8594; Full of energy. I am hungry for new interesting tasks.
+::: warning Близок к завершению
+&#8594; Любой продукт всегда можно улучшить и доработать. Важно понимать, когда рентабельность улучшений заканчивается. На данном этапе есть всё, чтобы запустить ещё несколько локаций.
 
+&#8594; Энергии полно: хочу новых и интересных задач.
 :::
 
 ## ...
 
 <Accordion>
-  <AccItem>autumn 2019 - early 2020
-  <div slot="acc-p"><blockquote>
-<p>After xena.exchange, I found that I hadn&#39;t taken any breaks for 10 years. That is, while working in outsourcing, I traveled. But I even worked on airplanes. Once my keyboard even exploded on landing because I had to close a deadline while flying 🙈</p>
-</blockquote>
-<ul>
-<li>I&#39;ve done a few small projects with my long-time remote team, like the twitch ad account service</li>
-<li>I was also thinking about some kind of physical business, for example, carbohydrate-free pizzas and burgers (frozen convenience foods) in the wake of the popularity of keto.But quarantine came, and in the wake of panic, the topic of semi-finished products for fitness establishments seemed irrelevant</li>
-<li>But I still wanted something other than IT-products. With the beginning of quarantine, I launched a biohacking marathon to raise dopamine on <a href="https://instagram.com/darrrinagym">my Instagram</a>.</li>
-<li>Just for fun, I became interested in mobile graphics. I was wondering what I can do using only gadgets. I posted this on Instagram. Subscribers began to demand courses. I ran them too. But by that time I had already realized that the insta-courses was not what I wanted to do. And I want  again complex design challenges </li>
-<li>some projects for clients</li>
-</ul></div>
+  <AccItem>Что я делала с осени 2019 - до середины 2020
+  <div slot="acc-p">
+  <blockquote>
+    <p>После ухода из xena.exchange поняла, что 10 лет <del>страдала острой формой трудоголизма</del> нон-стопом прыгала из проекта в проект. То есть, без отпуска. Разумеется, на месте не сидела: периодически меняла города и страны обитания. Однако, даже в перелетах умудрялась закрывать дедлайны. В общем, решила расслабиться:</p>
+  </blockquote>
+  <ul>
+    <li>Брала, в основном, небольшие проекты, чаще в составе уже сработанной удаленной команды.<p><img src="/images/rest.webp"></p></li>
+    <li>Думала о каком-то физическом бизнесе, например, о пицце и гамбургерах без углеводов (замороженные полуфабрикаты) на волне популярности кето, безуглеводная еда для фитнес-клубов на волне карантина потеряла актуальность.</li>
+    <li>Но хотелось чего-то вне IT: c началом карантина запустила <a href="https://instagram.com/darrrinagym">в инсте</a> марафон биохакинга, для массового буста дофамина, который люди стремительно теряли. </li>
+    <li>Там же начала фаниться с мобильной графикой. Было интересно, что могу сделать, используя только гаджеты и не тратя на это более 15 минут. Аудитория массово восхищалась и требовала курсы. Спрос рождает предложение. Хотя, уже поняла, что инста-курсы и марафоны - это не то, чем я хочу заниматься. Я опять хочу IT и дизайнерских задач. <p><img src="/images/infobiz.webp"></p></li>
+  </ul>
+</div>
   </AccItem>
-  </div>
-  </AccItem>
-  
 </Accordion>
 
 ## Head of Design
 
 <Card><p><a href="https://xena.exchange/"><strong>xena.exchange</strong></a></p><p>2017 – 2019</p></Card>
 
-- I started out as the only designer.
-- Created a project from 0. Was one of the first 5 members of the assembled team. Therefore, at first I was responsible not only for product design and research, but also for all design tasks, which is typical for startups.
-- User interfaces: wireframing, mock ups, design language & system, user flows, components
-- Marketing materials: landing pages, banners, sotial media graphics, printed products, presentations, etc
-- UX: Finding the client's problem and solving them
-- Creating UI-components for data visualization
-- Later search for designers, interviews and mention
+- Начинала, со старта проекта в числе первых 5-ти членов команды, как единственный дизайнер.
+- Поэтому, кроме продуктового дизайна на мне был весь дизайн, в принципе.
+- **Основные продукты:**
+  - трейдинговый терминал,
+  - инвестиционное портфолио
+  - маркет барометр
+- **Вспомогательные продукты:**
+  - Онбоардинги
+  - Документация
+  - Хелп-центр и т.д.
+- **Основные задачи:**
+  - вайрфреймы, мокапы, прототипы,
+  - design language & system,
+  - юзерфлоу, компоненты,
+  - тесты
+  - UX: поиск проблем пользователей и их решение
+- **Маркетинговые материалы:**
+  _ сайты и лендинги,
+  _ инфографика, соцсети
+  _ полиграфия,
+  _ презентации и т.д.
+  > _В целом, пригодилось всё, что указано здесь на странице Skills, пригодилось. И даже 3D._
+- Так же инициировала ребрендинг(на старте уже были лого-гамма-шрифты и концептуальное описание того, что мы транслируем. Но если последнее было круто, то визуальная часть была из «другой оперы» )
+- По мере роста компании также занималась поиском дизайнеров, интервью и менторством, организацией командных процессов дизайна и тд
 
-**Main products:**
-
-- Trading terminal
-- Investment portfolio
-- Market barometer
-
-**Side products:**
-
-- Help Center,
-- Documentation,
-- Onboardings
+<p><img height=400px src="/images/xena.webp"></p>
 
 ## Product Management, Design & Development
 
 <Card><p><strong>telecommunication startup</strong></a></p><p>2016 – 2017</p></Card>
-_It was a startup organized by my husband, so I took on all the roles that I could_
+_Телеком-продукты, в составе стартапа супруга_
 
-- Teamwork setup (Jira, Confluence, Slack, etc)
-- Internal and client documentation writing
-- Blog copiwriting and creating marketing mateials, like presentations, banners and Infographics
-- Landing pages and website
-- UX/UI for callback widget
-- UX/UI for call tracking analytics
-- Service for selecting and connecting IP numbers (web app)
-- and more
+- Настройка командных рабочих процессов (Jira, Confluence, Slack, etc)
+- Внутренняя документация проектов документация продуктов
+- Сайт, блог, маркетинговые материалы (презентация, баннеры, инфографика)
+- Сайты и лендинги
+- UX/UI виджет обратного звонка
+- UX/UI аналитика для колцентров
+- Сервис для выбора и подклюения IP-телефонии (web app)
+- Оценка стоимости разработки продуктов Agile (чтобы убедить, что нам оно не выгодно)
+- и многое другое
 
-> _Like many startups, in the future they still needed to focus on one thing. Therefore, unfortunately, I cannot show active links._
+> _Бизнес функционирует, однако слишком много продуктов разработать-содержать-продвегать и поддерживать, сил, как и предполагалось, не хватило. Частично ушли в состав других продуктов_
 
-At the same time, in parallel, I worked on additional projects as part of a remote team.
+<p><img height=400px src="/images/nort.webp"></p>
+
+Кроме этого, были и другие проекты, иногда что-то [даже выкладывала ](https://darrrina.myportfolio.com), частично дублируя на [Behance](https://www.behance.net/darrrina/projects)
 
 ## Head of game development
 
 <Card><p><a href="https://granat-holding.ru/"><strong>Granat</strong></a></p><p>Advertising agency<p>2014 – 2016</p></Card>
 
-- Development of children's game applications
-- Creation of projects aimed at further franchise
-- AR-VR Experimental Lab for Advertising
-- Management of a team of 14 people
-- Mentoring
+- Управление разработкой детстких игровых обучающих кросс-платформенных игровых приложений
+- AR-экспериментальная лаборатория для рекламы
+- Управление командой из 14 человек
+- Менторство
 
-**What did I do:**
+**Что делала:**
 
-- Product and team management
-- Creation and organization of a team, participation in the recruitment process
-- Marketing research, competitor analysis
-- Create product visions and test hypotheses
-- Defining and developing a product vision
-- Create a strategy and roadmap in line with business goals
-- Setting up intra-team interaction, setting tasks
-- Planning and control of product launches in Appstore & Google Play
+- Управление продуктами и командой, которую собирала сама
+- Продуктовые и маркетинговые исследования, анализ конкурентов
+- Создание концепции продуктов, сратегии и тестирование гипотез
+- Дорожные карты, оценка проектов и рисков
+- Арт-дирекшн
+- Планирование и контроль запуска продуктов в Appstore и Google Play
+
+<p><img height=400px src="/images/milky.webp"></p>
+
+> _Детские приложения мне достались «в довесок», к более интерсным, на первый взгляд задачам, как пожелание бизнеса. После долгого поиска UX-дизайнера, поняла что эту часть буду проектировать сама. В результате, пожалуй, это было самым сложным (ничего не понимаю в детях), однако, родители «жаловались», что дети один раз попробовав, не хотели играть ни во что другое, даже полгода спустя. Подсадить аудиторию удалось._
 
 ## UX/UI Designer
 
 <Card><p><a href="https://smartmedicina.ru/"><strong>SmartMedicina</strong></a> for <a href="https://www.medicina.ru/"><strong>medicina.ru</strong></a></p><p>Medical clinic automation solution</p><p>2012-2013</p></Card>
 
-- Creation of a new modern automation system in the clinic to replace outdated software.
-- I did most of the work remotely. But to explore the usability of interviews and testing, I came to the clinic.
-- The main request is modernization, but without the painful transition of employees from familiar interfaces.
-- First, personal UX interviews were conducted with employees ranging from doctors and technicians to technical staff and administrators.
-- Pains were identified and those familiar and comfortable moments of the old interface that needed to be preserved.
-- On the basis of real people, the main roles were described, their pains and needs were determined.
-- In addition to the user flow of each user, the integration with medical equipment was a special point. Therefore, the design began precisely from the most difficult part of the oncological center.
-- At that time, Adobe Fireworks and Axure RP were used as tools.
-- I was the only designer on the team
-- In addition to employee interfaces, smart ward interfaces for patients were also designed.
+- Проектирование новой современной системы автоматизации для медицинской клиники, на смену устаревшего программного обеспечения.
+- Большую часть работы вела удаленно. Очные UX-тестирования и интервью: проект делался не для абстрактных пользователей.
+- Основное пожелание: модернизация, но без мучительного перехода сотрудников с привычных интерфейсов.
+- UX-интервью на старте со всеми основными будущими пользователями: врачи, медтехники, администраторы клиники, техподдержка.
+- Выявлены боли и те знакомые и комфортные моменты старого интерфейса, которые нужно было сохранить.
+- На основе реальных интерьвью были созданы персоны, определены их боли и потребности.
+- Помимо юзерфлоу каждого пользователя, особенностью проекта была интеграция с медицинским оборудованием. Поэтому проектирование началось именно с самой технически оснащенного отделения - онкологического центра. Также отдельную специфику прорабатывали для стоматологии
+- В качестве инструментов использовались Adobe Fireworks и Axure RP.
+- Я была единственным дизайнером в команде
+- Помимо интерфейсов для сотрудников, были разработаны интерфейсы умных палат для пациентов.
 
-> _In addition, several more client applications were created within the framework of the same team. Cooperated with them even after many years_
+> _В рамках той же команды было создано ещё несколько клиентских приложений. Сотрудничала с ними долгое время_
 
 ## UX/UI Designer
 
 <Card><p><strong>onga.ru </strong>(later SmartMedicina)</p><p>Game development</p><p>2009-2012</p></Card>
 
-- Marketing materials: landing pages, banners, sotial media graphics, printed products, etc
-- Interfaces for a single payment service onga
-- UX/UI for the sites of each of the game projects
-- Adaptation of in-game interfaces of Asian projects for Russian localization
-- Creating UX/UI for in-game stores for your own projects and much more
-- Painful computer freeze when using Photoshop for UserFlows 😎
+- Маркетинговые материалы: лендинги, баннеры, графика для соцсетей, печатной продукции и прочее
+- Интерфейсы для единого платежного сервиса платформы
+- UX/UI для сайтов каждого из игровых проектов компании
+- Адаптация и локализация внутриигровых интерфейсов азиатских проектов под русскоязычную аудиторию
+- UX/UI для внутриигровых магазинов собственных проектов
+- UX/UI игровых и неигровых товаров
+- Жесткие зависания компьютера при создании юзерфлоу в фотошопе из макетов в смарт-обьектах 😎
 
-> _In addition to onga.ru game projects, she performed work as a freelancer (landing pages, game stores, audit for game and near-game projects mail.ru and wargaming and other)_
+> _Помимо игровых проектов onga.ru периодически делала всё тоже самое и для других игровых проектов (лендинги, игровые магазины, аудит игровых и околигровых проектов, в том числе для игр mail.ru, wargaming и др.)_
+
+[Частично пылится на тут](https://darrrina.myportfolio.com/projects)
 
 ## Freelance designer
 
-<Card><p>Printing and web design</p><p>abt 2007-2009</p></Card>
-Since then I have grown a lot 😉, so I see no reason to describe. But there was a time when I did turnkey websites and even layout of newspapers and magazines.
+<Card><p>От полиграфии до сайтов под ключ 🙈</p><p>примерно 2007-2009</p></Card>
+Мне кажется, что с тех пор я несколько выросла в скиллах 😉. Впрочем, технологии и инструментарий тоже продвинулись. Поэтому не буду вдаваться в детали этого периода. Однако, тогда делала всё: от сайтов под ключ до верстки газет и журналов.

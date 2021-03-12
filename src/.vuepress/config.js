@@ -67,6 +67,16 @@ module.exports = {
     sidebar: {
       '/skills/': [
         {
+          title: 'Навыки',
+          collapsable: false,
+          children: [
+            '',
+            
+          ]
+        }
+      ],
+      'en/skills/': [
+        {
           title: 'My skills',
           collapsable: false,
           children: [
@@ -81,6 +91,7 @@ module.exports = {
           collapsable: false,
           children: [
             '',
+            'what-i-whant',
            
           ]
         }
