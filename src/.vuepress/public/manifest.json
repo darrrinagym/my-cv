@@ -1,15 +1,15 @@
 {
-  "name": "EMPAER",
-  "short_name": "EMPAER",
+  "name": "Daria Zorina - CV",
+  "short_name": "Daria Zorina - CV",
   "icons": [
     {
-      "src": "https://empaer-docs.netlify.app/icons/android-chrome-192x192.png",
+      "src": "icons/android-chrome-192x192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://empaer-docs.netlify.app/icons/android-chrome-512x512.png",
+      "src": "icons/android-chrome-512x512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
@@ -32,7 +32,7 @@
   "start_url": "/?source=pwa",
   "display": "fullscreen",
   "scope": "/",
-  "description": "Документация EMPAER",
+  "description": "Daria Zorina – Product & UX/UI Design| CV",
   "screenshots": [
     {
       "src": "/images/screen.webp",
