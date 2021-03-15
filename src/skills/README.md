@@ -353,3 +353,9 @@ tags: design
 &#8594; но, пожалуй, хватит 😉
 
 :::
+
+## Контакты
+
+<Card>
+
+<p>Открыта к предложениям <a href="mailto:darrrinagym@gmail.com" target="\_blank"><strong> 📨 почтой</strong></a> или 💬 <a href="https://telegram.me/darrrina" target="\_blank"> <strong>в телеграм</strong></a></p></Card>

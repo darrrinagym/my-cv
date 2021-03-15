@@ -106,16 +106,8 @@ module.exports = {
            
           ]
         }
-      ],
-      '/contacts/': [
-        {
-          title: 'Contacts',
-          collapsable: false,
-          children: [
-            '',
-          ]
-        }
-      ],
+      ]
+      
     }
   },
   locales: {

@@ -19,14 +19,14 @@ meta:
     content: https://dariazorina.netlify.app/images/cv-daria-img.webp
 name: Daria Zorina
 tagline: FullStack Product Designer & Developer
-actionText: Перейти к резюме →
+actionText: Что делаю →
 actionLink: /skills/
 features:
   - title: Product Design
-    details: Фокус на создании продуктов, востребованных рынком, решении бизнес-задач, снижении стоимости разработки и правильном позиционировании бренда
+    details: Фокус на решении бизнес-задач, снижении стоимости разработки и позиционировании продукта
   - title: UX/UI Design
-    details: В этой роли фокусируюсь на удобстве и удовольствии использования продукта пользователями.
+    details: Фокус на удобстве и удовольствии от использования продукта пользователями
   - title: Development
-    details: Дизайн, интегрированный в разработку. Создание дизайн систем. Fullstack development
+    details: Дизайн, интегрированный в разработку. Дизайн-системы. Fullstack development
 footer: Daria Zorina. FullStack Design 2008 – present
 ---
