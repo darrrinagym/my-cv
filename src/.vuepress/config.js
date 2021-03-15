@@ -53,13 +53,10 @@ module.exports = {
         text: 'Projects',
         link: '/projects/',
       },
-      {
-        text: 'Contacts',
-        link: '/contacts/',
-      },
+      
       {
         text: 'CV',
-        link: 'https://dariazorina.netlify.app/ru/'
+        link: 'https://spb.hh.ru/applicant/resumes/view?resume=78a88898ff08caa4060039ed1f4a5334466b69&print=true'
       },
       
     ],

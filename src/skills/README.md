@@ -339,7 +339,7 @@ tags: design
 
 **Также могу использовать:**
 
-- `Sketch`, `Flinto`, `Principle` , `Adobe XD`, `inVision`, `Abstract`
+- `Sketch`, `Flinto`, `Principle` ,`Marvel`, `Adobe XD`, `inVision`, `Abstract`, `Zeplin`
 
 - `Adobe (After Effects, Illustrator, Photoshop, In Design)`
 
