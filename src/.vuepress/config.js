@@ -53,6 +53,10 @@ module.exports = {
         text: 'Projects',
         link: '/projects/',
       },
+      {
+        text: 'Portfolio',
+        link: 'https://darrrina.myportfolio.com/2017'
+      },
       
       {
         text: 'CV',
