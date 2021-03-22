@@ -27,6 +27,10 @@ tags: design
 
 # {{ $frontmatter.title }}
 
+> [CV on english](https://docs.google.com/document/d/e/2PACX-1vS2otUrBsgbBq1QLjrI_qKLgOTHbxCdOmB7IQtTr3hNzSILlL5eQknfr6GRfL5AjeczS16KsMhgE6wY/pub#h.2et92p0)
+
+> [portfolio](https://darrrina.myportfolio.com/2017)
+
 ## Research
 
 <Accordion>
